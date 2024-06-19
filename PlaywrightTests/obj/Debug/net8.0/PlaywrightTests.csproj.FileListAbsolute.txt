@@ -1,0 +1,811 @@
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/testhost.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/testhost.exe
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/node/win32_x64/node.exe
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/node/LICENSE
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/api.json
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/install_media_pack.ps1
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/PrintDeps.exe
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/README.md
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_chrome_beta_linux.sh
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_chrome_beta_mac.sh
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_chrome_beta_win.ps1
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_chrome_stable_linux.sh
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_chrome_stable_mac.sh
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_chrome_stable_win.ps1
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_msedge_beta_linux.sh
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_msedge_beta_mac.sh
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_msedge_beta_win.ps1
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_msedge_dev_linux.sh
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_msedge_dev_mac.sh
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_msedge_dev_win.ps1
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_msedge_stable_linux.sh
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_msedge_stable_mac.sh
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_msedge_stable_win.ps1
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/browsers.json
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/cli.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/index.d.ts
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/index.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/index.mjs
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/androidServerImpl.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/browserServerImpl.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/accessibility.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/android.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/api.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/artifact.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/browser.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/browserContext.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/browserType.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/cdpSession.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/channelOwner.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/clientHelper.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/clientInstrumentation.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/connection.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/consoleMessage.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/coverage.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/dialog.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/download.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/electron.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/elementHandle.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/errors.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/events.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/fetch.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/fileChooser.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/frame.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/harRouter.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/input.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/jsHandle.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/jsonPipe.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/localUtils.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/locator.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/network.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/page.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/playwright.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/selectors.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/stream.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/tracing.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/types.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/video.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/waiter.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/webError.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/worker.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/writableStream.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/cli/driver.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/cli/program.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/cli/programWithTestStub.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/common/socksProxy.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/common/timeoutSettings.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/common/types.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/generated/consoleApiSource.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/generated/injectedScriptSource.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/generated/recorderSource.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/generated/utilityScriptSource.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/image_tools/colorUtils.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/image_tools/compare.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/image_tools/imageChannel.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/image_tools/stats.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/inprocess.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/inProcessFactory.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/outofprocess.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/protocol/debug.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/protocol/serializers.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/protocol/transport.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/protocol/validator.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/protocol/validatorPrimitives.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/remote/playwrightConnection.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/remote/playwrightServer.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/accessibility.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/android/android.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/android/backendAdb.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/artifact.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/browser.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/browserContext.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/browserType.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/appIcon.png
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/chromium.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/chromiumSwitches.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crAccessibility.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crBrowser.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crConnection.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crCoverage.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crDevTools.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crDragDrop.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crExecutionContext.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crInput.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crNetworkManager.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crPage.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crPdf.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crProtocolHelper.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crServiceWorker.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/defaultFontFamilies.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/videoRecorder.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/console.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/cookieStore.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/debugController.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/debugger.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/deviceDescriptors.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/deviceDescriptorsSource.json
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dialog.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/androidDispatcher.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/artifactDispatcher.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/browserContextDispatcher.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/browserDispatcher.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/browserTypeDispatcher.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/cdpSessionDispatcher.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/debugControllerDispatcher.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/dialogDispatcher.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/dispatcher.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/electronDispatcher.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/elementHandlerDispatcher.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/frameDispatcher.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/jsHandleDispatcher.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/jsonPipeDispatcher.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/localUtilsDispatcher.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/networkDispatchers.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/pageDispatcher.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/playwrightDispatcher.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/selectorsDispatcher.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/streamDispatcher.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/tracingDispatcher.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/writableStreamDispatcher.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dom.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/download.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/electron/electron.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/electron/loader.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/errors.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/fetch.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/fileChooser.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/fileUploadUtils.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/firefox/ffAccessibility.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/firefox/ffBrowser.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/firefox/ffConnection.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/firefox/ffExecutionContext.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/firefox/ffInput.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/firefox/ffNetworkManager.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/firefox/ffPage.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/firefox/firefox.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/formData.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/frames.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/frameSelectors.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/har/harRecorder.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/har/harTracer.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/helper.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/index.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/input.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/instrumentation.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/isomorphic/utilityScriptSerializers.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/javascript.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/launchApp.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/macEditingCommands.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/network.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/page.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/pipeTransport.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/playwright.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/progress.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/protocolError.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/recorder.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/recorder/codeGenerator.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/recorder/csharp.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/recorder/java.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/recorder/javascript.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/recorder/jsonl.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/recorder/language.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/recorder/python.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/recorder/recorderActions.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/recorder/recorderApp.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/recorder/recorderUtils.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/recorder/utils.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/registry/browserFetcher.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/registry/dependencies.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/registry/index.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/registry/nativeDeps.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/registry/oopDownloadBrowserMain.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/screenshotter.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/selectors.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/socksInterceptor.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/trace/recorder/snapshotter.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/trace/recorder/snapshotterInjected.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/trace/recorder/tracing.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/trace/test/inMemorySnapshotter.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/trace/viewer/traceViewer.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/transport.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/types.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/usKeyboardLayout.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/webkit/webkit.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/webkit/wkAccessibility.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/webkit/wkBrowser.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/webkit/wkConnection.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/webkit/wkExecutionContext.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/webkit/wkInput.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/webkit/wkInterceptableRequest.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/webkit/wkPage.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/webkit/wkProvisionalPage.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/webkit/wkWorkers.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/third_party/diff_match_patch.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/third_party/pixelmatch.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utilsBundle.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utilsBundleImpl/index.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utilsBundleImpl/xdg-open
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/ascii.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/comparators.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/crypto.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/debug.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/debugLogger.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/env.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/eventsHelper.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/fileUtils.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/glob.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/happy-eyeballs.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/headers.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/hostPlatform.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/httpServer.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/index.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/isomorphic/cssParser.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/isomorphic/cssTokenizer.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/isomorphic/locatorGenerators.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/isomorphic/locatorParser.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/isomorphic/locatorUtils.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/isomorphic/selectorParser.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/isomorphic/stringUtils.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/isomorphic/traceUtils.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/linuxUtils.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/manualPromise.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/mimeType.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/multimap.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/network.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/processLauncher.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/profiler.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/rtti.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/semaphore.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/spawnAsync.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/stackTrace.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/task.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/time.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/timeoutRunner.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/traceUtils.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/userAgent.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/wsServer.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/zipFile.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/zones.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/htmlReport/index.html
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/recorder/assets/codeMirrorModule-COR5vrxk.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/recorder/assets/codeMirrorModule-ez37Vkbh.css
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/recorder/assets/codicon-DMa5iZz2.ttf
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/recorder/assets/index-B5iDPo7P.css
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/recorder/assets/index-ByO2Mfgr.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/recorder/index.html
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/recorder/playwright-logo.svg
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/assets/codeMirrorModule-D-hINnYb.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/assets/testServerConnection-CpiRu-AA.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/assets/xtermModule-BeNbaIVa.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/codeMirrorModule.ez37Vkbh.css
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/codicon.DMa5iZz2.ttf
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/index.9xqViRZD.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/index.CrbWWHbf.css
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/index.html
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/playwright-logo.svg
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/snapshot.html
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/sw.bundle.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/testServerConnection.0WapKERv.css
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/uiMode.Btn2TM9w.css
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/uiMode.CdMTT2Sp.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/uiMode.html
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/xtermModule.DSXBckUd.css
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/zipBundle.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/zipBundleImpl.js
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/LICENSE
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/NOTICE
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/package.json
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/protocol.yml
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/README.md
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/ThirdPartyNotices.txt
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/types/protocol.d.ts
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/types/structs.d.ts
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/types/types.d.ts
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/playwright.ps1
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/NUnit3.TestAdapter.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/NUnit3.TestAdapter.pdb
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/nunit.engine.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/nunit.engine.api.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/nunit.engine.core.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/testcentric.engine.metadata.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/PlaywrightTests.deps.json
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/PlaywrightTests.runtimeconfig.json
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/PlaywrightTests.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/PlaywrightTests.pdb
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/Microsoft.Playwright.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/Microsoft.Playwright.NUnit.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/Microsoft.Playwright.TestAdapter.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/NuGet.Frameworks.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/nunit.framework.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/obj/Debug/net8.0/PlaywrightTests.csproj.AssemblyReference.cache
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/obj/Debug/net8.0/PlaywrightTests.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/obj/Debug/net8.0/PlaywrightTests.AssemblyInfoInputs.cache
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/obj/Debug/net8.0/PlaywrightTests.AssemblyInfo.cs
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/obj/Debug/net8.0/PlaywrightTests.csproj.CoreCompileInputs.cache
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/obj/Debug/net8.0/Playwrig.3B805853.Up2Date
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/obj/Debug/net8.0/PlaywrightTests.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/obj/Debug/net8.0/refint/PlaywrightTests.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/obj/Debug/net8.0/PlaywrightTests.pdb
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/obj/Debug/net8.0/PlaywrightTests.genruntimeconfig.cache
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/obj/Debug/net8.0/ref/PlaywrightTests.dll
+C:/Users/ricky.b.do.van.khac/Documents/trainings/playwright/PlaywrightTests/bin/Debug/net8.0/testData.json
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/node/LICENSE
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/api.json
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/install_media_pack.ps1
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/PrintDeps.exe
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/README.md
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_chrome_beta_linux.sh
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_chrome_beta_mac.sh
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_chrome_beta_win.ps1
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_chrome_stable_linux.sh
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_chrome_stable_mac.sh
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_chrome_stable_win.ps1
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_msedge_beta_linux.sh
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_msedge_beta_mac.sh
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_msedge_beta_win.ps1
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_msedge_dev_linux.sh
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_msedge_dev_mac.sh
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_msedge_dev_win.ps1
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_msedge_stable_linux.sh
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_msedge_stable_mac.sh
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/bin/reinstall_msedge_stable_win.ps1
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/browsers.json
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/cli.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/index.d.ts
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/index.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/index.mjs
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/androidServerImpl.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/browserServerImpl.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/cli/driver.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/cli/program.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/cli/programWithTestStub.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/accessibility.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/android.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/api.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/artifact.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/browser.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/browserContext.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/browserType.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/cdpSession.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/channelOwner.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/clientHelper.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/clientInstrumentation.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/connection.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/consoleMessage.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/coverage.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/dialog.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/download.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/electron.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/elementHandle.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/errors.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/events.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/fetch.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/fileChooser.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/frame.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/harRouter.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/input.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/jsHandle.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/jsonPipe.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/localUtils.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/locator.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/network.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/page.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/playwright.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/selectors.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/stream.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/tracing.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/types.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/video.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/waiter.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/webError.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/worker.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/client/writableStream.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/common/socksProxy.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/common/timeoutSettings.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/common/types.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/generated/consoleApiSource.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/generated/injectedScriptSource.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/generated/recorderSource.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/generated/utilityScriptSource.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/image_tools/colorUtils.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/image_tools/compare.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/image_tools/imageChannel.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/image_tools/stats.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/inprocess.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/inProcessFactory.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/outofprocess.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/protocol/debug.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/protocol/serializers.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/protocol/transport.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/protocol/validator.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/protocol/validatorPrimitives.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/remote/playwrightConnection.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/remote/playwrightServer.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/accessibility.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/android/android.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/android/backendAdb.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/artifact.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/browser.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/browserContext.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/browserType.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/appIcon.png
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/chromium.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/chromiumSwitches.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crAccessibility.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crBrowser.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crConnection.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crCoverage.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crDevTools.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crDragDrop.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crExecutionContext.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crInput.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crNetworkManager.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crPage.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crPdf.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crProtocolHelper.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/crServiceWorker.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/defaultFontFamilies.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/chromium/videoRecorder.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/console.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/cookieStore.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/debugController.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/debugger.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/deviceDescriptors.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/deviceDescriptorsSource.json
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dialog.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/androidDispatcher.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/artifactDispatcher.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/browserContextDispatcher.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/browserDispatcher.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/browserTypeDispatcher.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/cdpSessionDispatcher.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/debugControllerDispatcher.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/dialogDispatcher.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/dispatcher.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/electronDispatcher.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/elementHandlerDispatcher.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/frameDispatcher.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/jsHandleDispatcher.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/jsonPipeDispatcher.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/localUtilsDispatcher.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/networkDispatchers.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/pageDispatcher.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/playwrightDispatcher.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/selectorsDispatcher.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/streamDispatcher.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/tracingDispatcher.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dispatchers/writableStreamDispatcher.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/dom.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/download.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/electron/electron.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/electron/loader.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/errors.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/fetch.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/fileChooser.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/fileUploadUtils.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/firefox/ffAccessibility.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/firefox/ffBrowser.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/firefox/ffConnection.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/firefox/ffExecutionContext.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/firefox/ffInput.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/firefox/ffNetworkManager.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/firefox/ffPage.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/firefox/firefox.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/formData.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/frames.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/frameSelectors.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/har/harRecorder.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/har/harTracer.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/helper.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/index.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/input.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/instrumentation.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/isomorphic/utilityScriptSerializers.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/javascript.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/launchApp.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/macEditingCommands.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/network.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/page.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/pipeTransport.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/playwright.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/progress.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/protocolError.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/recorder.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/recorder/codeGenerator.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/recorder/csharp.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/recorder/java.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/recorder/javascript.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/recorder/jsonl.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/recorder/language.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/recorder/python.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/recorder/recorderActions.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/recorder/recorderApp.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/recorder/recorderUtils.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/recorder/utils.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/registry/browserFetcher.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/registry/dependencies.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/registry/index.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/registry/nativeDeps.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/registry/oopDownloadBrowserMain.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/screenshotter.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/selectors.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/socksInterceptor.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/trace/recorder/snapshotter.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/trace/recorder/snapshotterInjected.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/trace/recorder/tracing.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/trace/test/inMemorySnapshotter.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/trace/viewer/traceViewer.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/transport.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/types.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/usKeyboardLayout.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/webkit/webkit.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/webkit/wkAccessibility.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/webkit/wkBrowser.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/webkit/wkConnection.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/webkit/wkExecutionContext.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/webkit/wkInput.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/webkit/wkInterceptableRequest.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/webkit/wkPage.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/webkit/wkProvisionalPage.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/server/webkit/wkWorkers.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/third_party/diff_match_patch.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/third_party/pixelmatch.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/ascii.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/comparators.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/crypto.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/debug.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/debugLogger.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/env.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/eventsHelper.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/fileUtils.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/glob.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/happy-eyeballs.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/headers.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/hostPlatform.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/httpServer.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/index.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/isomorphic/cssParser.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/isomorphic/cssTokenizer.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/isomorphic/locatorGenerators.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/isomorphic/locatorParser.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/isomorphic/locatorUtils.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/isomorphic/selectorParser.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/isomorphic/stringUtils.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/isomorphic/traceUtils.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/linuxUtils.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/manualPromise.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/mimeType.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/multimap.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/network.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/processLauncher.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/profiler.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/rtti.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/semaphore.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/spawnAsync.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/stackTrace.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/task.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/time.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/timeoutRunner.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/traceUtils.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/userAgent.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/wsServer.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/zipFile.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utils/zones.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utilsBundle.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utilsBundleImpl/index.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/utilsBundleImpl/xdg-open
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/htmlReport/index.html
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/recorder/assets/codeMirrorModule-COR5vrxk.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/recorder/assets/codeMirrorModule-ez37Vkbh.css
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/recorder/assets/codicon-DMa5iZz2.ttf
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/recorder/assets/index-B5iDPo7P.css
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/recorder/assets/index-ByO2Mfgr.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/recorder/index.html
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/recorder/playwright-logo.svg
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/assets/codeMirrorModule-D-hINnYb.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/assets/testServerConnection-CpiRu-AA.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/assets/xtermModule-BeNbaIVa.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/codeMirrorModule.ez37Vkbh.css
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/codicon.DMa5iZz2.ttf
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/index.9xqViRZD.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/index.CrbWWHbf.css
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/index.html
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/playwright-logo.svg
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/snapshot.html
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/sw.bundle.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/testServerConnection.0WapKERv.css
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/uiMode.Btn2TM9w.css
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/uiMode.CdMTT2Sp.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/uiMode.html
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/vite/traceViewer/xtermModule.DSXBckUd.css
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/zipBundle.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/lib/zipBundleImpl.js
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/LICENSE
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/NOTICE
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/package.json
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/protocol.yml
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/README.md
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/ThirdPartyNotices.txt
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/types/protocol.d.ts
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/types/structs.d.ts
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/package/types/types.d.ts
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/playwright.ps1
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/NUnit3.TestAdapter.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/NUnit3.TestAdapter.pdb
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/nunit.engine.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/nunit.engine.api.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/nunit.engine.core.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/testcentric.engine.metadata.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/testData.json
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/.playwright/node/darwin-arm64/node
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/PlaywrightTests.deps.json
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/PlaywrightTests.runtimeconfig.json
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/PlaywrightTests.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/PlaywrightTests.pdb
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/Microsoft.Playwright.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/Microsoft.Playwright.NUnit.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/Microsoft.Playwright.TestAdapter.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/testhost.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/NuGet.Frameworks.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/nunit.framework.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/obj/Debug/net8.0/PlaywrightTests.csproj.AssemblyReference.cache
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/obj/Debug/net8.0/PlaywrightTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/obj/Debug/net8.0/PlaywrightTests.AssemblyInfoInputs.cache
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/obj/Debug/net8.0/PlaywrightTests.AssemblyInfo.cs
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/obj/Debug/net8.0/PlaywrightTests.csproj.CoreCompileInputs.cache
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/obj/Debug/net8.0/Playwrig.3B805853.Up2Date
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/obj/Debug/net8.0/PlaywrightTests.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/obj/Debug/net8.0/refint/PlaywrightTests.dll
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/obj/Debug/net8.0/PlaywrightTests.pdb
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/obj/Debug/net8.0/PlaywrightTests.genruntimeconfig.cache
+/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/obj/Debug/net8.0/ref/PlaywrightTests.dll
