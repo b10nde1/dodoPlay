@@ -1,13 +1,16 @@
 {
-    "homePage": "https://rickyblondel.gitlab.io/basicautomation",
-    "dataPattern": {
-        "emailAddress" : "happy.friday.%generic-id%@gmail.com",
-        "password" : "test%generic-id%"
-    },
-    "form1": {
-        "url": "https://rickyblondel.gitlab.io/basicautomation/form-1.html",
-        "pageTitle" : "Basic Automation",
-        "textTitle" : "Welcome to QA Form Lvl 1",
-        "textDescription" : "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\""
-    }
+  "homePage": "https://rickyblondel.gitlab.io/basicautomation",
+  "dataPattern": {
+    "emailAddress": "happy.friday.%generic-id%@gmail.com",
+    "password": "test%generic-id%",
+    "selectRice": "Brown rice",
+    "selectQA": "Ops",
+    "textArea": "dummy values %generic-id%"
+  },
+  "form2": {
+    "url": "https://rickyblondel.gitlab.io/basicautomation/form-2.html",
+    "pageTitle": "Basic Automation",
+    "textTitle": "Welcome to QA Form Lvl 2",
+    "textDescription": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\""
+  }
 }
