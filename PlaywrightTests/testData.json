@@ -2,7 +2,8 @@
     "homePage": "https://rickyblondel.gitlab.io/basicautomation",
     "dataPattern": {
         "emailAddress" : "happy.friday.%generic-id%@gmail.com",
-        "password" : "test%generic-id%"
+        "password" : "test%generic-id%",
+        "textArea" : "adding text %generic-id%"
     },
     "form1": {
         "url": "https://rickyblondel.gitlab.io/basicautomation/form-1.html",

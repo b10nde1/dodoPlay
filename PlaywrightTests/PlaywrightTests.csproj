@@ -20,9 +20,6 @@
 
   <ItemGroup>
     <Using Include="NUnit.Framework" />
-    <None Update="testData.json">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
   </ItemGroup>
 
 </Project>

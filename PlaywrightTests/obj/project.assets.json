@@ -1692,19 +1692,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/ricky.b.do.van.khac/.nuget/packages/": {}
+    "C:\\Users\\bibi.f.dialumsing\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/PlaywrightTests.csproj",
+      "projectUniqueName": "C:\\Users\\bibi.f.dialumsing\\Desktop\\PlaywrightTests\\PlaywrightTests.csproj",
       "projectName": "PlaywrightTests",
-      "projectPath": "/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/PlaywrightTests.csproj",
-      "packagesPath": "/Users/ricky.b.do.van.khac/.nuget/packages/",
-      "outputPath": "/Users/ricky.b.do.van.khac/Documents/ATC/Automation School/playwright/PlaywrightTests/obj/",
+      "projectPath": "C:\\Users\\bibi.f.dialumsing\\Desktop\\PlaywrightTests\\PlaywrightTests.csproj",
+      "packagesPath": "C:\\Users\\bibi.f.dialumsing\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bibi.f.dialumsing\\Desktop\\PlaywrightTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/ricky.b.do.van.khac/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\bibi.f.dialumsing\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -1774,7 +1774,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
