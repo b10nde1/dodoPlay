@@ -37,6 +37,16 @@ public class ExampleTest2 : PageTest
     }
     #endregion
 
+    #region privateMethod
+    private string GetSelectValue (string [] list)
+    {
+        string select = _myUtitilies.SelectFromList(list);
+        Console.WriteLine($"Selection for ${list} :: {select}");
+
+        return select;
+    }
+    #endregion
+
     #region Test
     [Test]
     public async Task Form2Cancel()
@@ -56,8 +66,8 @@ public class ExampleTest2 : PageTest
             string textDescription = testData.form2.textDescription;
 
             string textArea = testData.dataPattern.textArea;
-            string selectRice = testData.dataPattern;
-            string selectQA = testData.dataPattern;
+            string [] selectRice = testData.ArrayValues.selectRice.ToObject<string[]>();
+            string [] selectQA = testData.ArrayValues.selectQA.ToObject<string[]>();
 
             // open form 2
             await Page.GotoAsync(url);
@@ -74,9 +84,9 @@ public class ExampleTest2 : PageTest
             await Page.Locator(_password).FillAsync(GetGenericData(password));
 
             // select rice
-            await Page.Locator(_selectRice).SelectOptionAsync(GetGenericData(selectRice)); 
+            await Page.Locator(_selectRice).SelectOptionAsync(GetSelectValue(selectRice)); 
             // select QA
-            await Page.Locator(_selectQA).SelectOptionAsync(GetGenericData(selectQA)); 
+            await Page.Locator(_selectQA).SelectOptionAsync(GetSelectValue(selectQA)); 
             // type in textarea
             await Page.Locator(_textArea).FillAsync(GetGenericData(textArea));
 
