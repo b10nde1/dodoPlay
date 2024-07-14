@@ -3,12 +3,20 @@
     "dataPattern": {
         "emailAddress" : "happy.friday.%generic-id%@gmail.com",
         "password" : "test%generic-id%",
-        "textArea" : "adding text %generic-id%"
+        "textArea" : "adding text %generic-id%",
+        "selectRice" : "Think green",
+        "selectQA" : "QA"
     },
     "form1": {
         "url": "https://rickyblondel.gitlab.io/basicautomation/form-1.html",
         "pageTitle" : "Basic Automation",
         "textTitle" : "Welcome to QA Form Lvl 1",
+        "textDescription" : "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\""
+    },
+    "form2": {
+        "url": "https://rickyblondel.gitlab.io/basicautomation/form-2.html",
+        "pageTitle" : "Basic Automation",
+        "textTitle" : "Welcome to QA Form Lvl 2",
         "textDescription" : "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\""
     }
 }
